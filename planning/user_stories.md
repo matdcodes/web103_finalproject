@@ -4,8 +4,8 @@ Reference the Writing User Stories final project guide in the course portal for 
 
 ## Outline User Roles
 
-- **Organizer** a student who creates and manages study sessions
-- **Attendee** a student who looks for and joins study sessions
+- **Organizer:** a student who creates and manages study sessions
+- **Attendee:** a student who looks for and joins study sessions
 
 ## Draft User Stories
 
