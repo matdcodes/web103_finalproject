@@ -1,8 +1,8 @@
-# [your app name here]
+# StudyCircle
 
 CodePath WEB103 Final Project
 
-Designed and developed by: [your names here]
+Designed and developed by: Matthew La, Ime Iyonsi, Melissa Martinez, Khadeja Ahmar, Sumaiya Shumu
 
 🔗 Link to deployed app:
 
@@ -10,39 +10,63 @@ Designed and developed by: [your names here]
 
 ### Description and Purpose
 
-[text goes here]
+StudyCircle is a web app that helps students organize and join study sessions. The purpose is to make group studying easier to set up and attend.
 
 ### Inspiration
 
-[text goes here]
+StudyCircle was inspired by students who want to study a topic with others but don't know anyone nearby who shares their interests.
 
 ## Tech Stack
 
-Frontend:
+Frontend: React
 
-Backend:
+Backend: Node.js, Express
+
+Database: PostgreSQL
 
 ## Features
 
-### [Name of Feature 1]
+### Browse Events
 
-[short description goes here]
-
-[gif goes here]
-
-### [Name of Feature 2]
-
-[short description goes here]
+View a list of all upcoming study sessions with their title, course, date, time, and location.
 
 [gif goes here]
 
-### [Name of Feature 3]
+### Event Details
 
-[short description goes here]
+Open a session's page to see the full description, location, time, and the list of people attending.
 
 [gif goes here]
 
-### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
+### Create Event
+
+Post a new study session with a title, course, date, time, and location, then get redirected to its page.
+
+[gif goes here]
+
+### Edit Event
+
+Update details of an existing session, such as time, topic, or description.
+
+[gif goes here]
+
+### Delete Event
+
+Remove a session that is no longer happening.
+
+[gif goes here]
+
+### RSVP to Event
+
+Let students sign up for a study session and mark if they are "going" or "maybe".
+
+[gif goes here]
+
+### Filter and Sort
+
+Filter sessions by course or location and sort by date to find more relevant sessions quicker.
+
+[gif goes here]
 
 ## Installation Instructions
 
