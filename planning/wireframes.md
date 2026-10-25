@@ -4,18 +4,28 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 ## List of Pages
 
-[👉🏾👉🏾👉🏾 List the pages you expect to have in your app, with a ⭐ next to pages you have wireframed]
+<!-- Logged Out Pages -->
+- ⭐ Home/Landing Page
+- ⭐ Session Browsing Page
+- ⭐ Session Details Page
 
-## Wireframe 1: [page title]
+<!-- Logged In Pages -->
+-  Profile Page
+-  Session Browsing Page
+-  Session Details Page
+-  Create Session Page
+-  Edit Session Page
 
-[👉🏾👉🏾👉🏾 include wireframe 1]
+## Wireframe 1: Home/Landing Page
+
+![Landing page wireframe](./assets/landing-page.png)
 
 ## Wireframe 2: [page title]
 
-[👉🏾👉🏾👉🏾 include wireframe 2]
+![Browsing page wireframe](./assets/browsing-page.png)
 
 ## Wireframe 3: [page title]
 
-[👉🏾👉🏾👉🏾 include wireframe 3]
+![Detail page wireframe](./assets/detail-page.png)
 
 [👉🏾👉🏾👉🏾 include more wireframes as desired]
