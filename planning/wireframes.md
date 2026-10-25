@@ -20,11 +20,11 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 ![Landing page wireframe](./assets/landing-page.png)
 
-## Wireframe 2: [page title]
+## Wireframe 2: Browsing Page
 
 ![Browsing page wireframe](./assets/browsing-page.png)
 
-## Wireframe 3: [page title]
+## Wireframe 3: Details Page
 
 ![Detail page wireframe](./assets/detail-page.png)
 
